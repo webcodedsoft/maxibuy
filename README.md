@@ -43,4 +43,4 @@ The `publish` endpoint is meant for publishing data to the subscriber that subsc
 The `subscribe` endpoint is meant for receiving data the `publish` endpoint **published** also this endpoint expecting two types of datas one is `params` and request `body` where `params` is string that contain `topic` the subscriber subscribe to and the `body` contain the additional data which is `url` and must be a valid url.
 
 Thanks
-Kindly revert back if their is any challenege 
+Kindly revert back if their is any challenege. 
